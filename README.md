@@ -1,5 +1,5 @@
 # fore
 Reverse of hostname's IP.
 
-Usage
+##Usage
 ./fore.js domain.tld 
