@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-var dns = require('dns');
+'use strict';
+const dns = require('dns');
 if (process.argv.length <= 2) {
     console.log("Give hostname!");
     process.exit(-1);

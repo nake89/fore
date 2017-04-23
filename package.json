@@ -1,0 +1,22 @@
+{
+  "name": "fore",
+  "version": "0.0.1",
+  "description": "Reverse of hostname's IP.",
+  "main": "fore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  "fore": "fore.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nake89/fore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nake89/fore/issues"
+  },
+  "homepage": "https://github.com/nake89/fore#readme"
+}
