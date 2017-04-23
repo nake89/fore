@@ -1,6 +1,6 @@
 {
-  "name": "fore",
-  "version": "0.0.1",
+  "name": "fore-cli",
+  "version": "0.0.2",
   "description": "Reverse of hostname's IP.",
   "main": "fore.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/nake89/fore.git"
   },
-  "author": "",
+  "author": "Kevin Kivi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nake89/fore/issues"
