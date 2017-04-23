@@ -1,6 +1,6 @@
 {
   "name": "fore-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reverse of hostname's IP.",
   "main": "fore.js",
   "scripts": {
