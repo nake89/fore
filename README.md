@@ -1,5 +1,8 @@
 # fore
 Reverse of hostname's IP.
 
+## Installation
+`npm i fore-cli -g`
+
 ## Usage
-./fore.js domain.tld 
+`.fore domain.tld`
